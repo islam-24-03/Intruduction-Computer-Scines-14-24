@@ -1,0 +1,35 @@
+# name = "Tom"
+# name = "Jack"
+#
+# print(name)
+# # print("Hello, 'Sam'")
+#
+
+#
+# name = "Sam"
+# Name = "Tom"
+# print(name)
+
+
+
+# r = 10
+# pi = 3.14
+# a = 2 * pi * r * r
+# print(a)
+
+# name =  input("Pls your name =>")
+# surname = input("Pls your surname =>")
+# fullname = name + " " +  surname
+#
+# print("Hello my friend", fullname)
+
+
+
+# c = 2
+# f = 9/5 * c + 32
+# print(f)
+
+
+c = int(input("Введите градус => "))
+f = 9/5 * c + 32
+print(f)
