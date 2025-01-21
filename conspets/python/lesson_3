@@ -1,0 +1,54 @@
+# Типы данных
+
+#
+# inp = int(input("Введите в градусах "))
+# f = 9/5 * inp + 32
+
+# print(inp)
+# print("В градусах", " " , inp )
+# print("В фарингейтах", " " , f , "Целое" , " ", int(f))
+
+# print(f"celcium: {inp}. in faringates: {f}. int:  {int(f)}.")   #Это крутой метод чем те верхние
+
+
+# num1 = 5
+# print(num1)
+# num2 = int(num1)
+# print(num2)
+
+
+# num1 = 5
+# print(num1)
+# num2 = float(num1)
+# print(num2)
+
+
+# num2 = float(5)
+# print(num2)
+
+
+
+
+admin = input('Could you say your registration number pls: ')
+
+client = input('Could you say your name, please: ')
+
+print(f"Admin registration number: {admin}")
+print(f"Client name: {client}")
+
+
+
+
+
+# num1 = str(5.6)
+# num2 = str(7.6)
+#
+# num3 = num1 * num2
+# num4 = num1 + num2
+# print( num4)
+
+#
+# name =  'Mary'
+# age = 20
+# age = str(age)
+# print(type(age))
