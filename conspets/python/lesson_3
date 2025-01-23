@@ -28,13 +28,16 @@
 
 
 
+admin = input('Could you please provide your registration number: ')
+client = input('Could you please provide your name: ')
 
-admin = input('Could you say your registration number pls: ')
+print("\n--- Registration Details ---")
+print(f"Admin Registration Number: {admin}")
+print(f"Client Name: {client}")
+print("-----------------------------")
 
-client = input('Could you say your name, please: ')
+print("\nThank you for providing your details!")
 
-print(f"Admin registration number: {admin}")
-print(f"Client name: {client}")
 
 
 
